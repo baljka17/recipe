@@ -452,6 +452,8 @@ body {
 }
 .pagination__btn--prev {
   float: left;
+  display: flex;
+  flex-direction: row-reverse;
 }
 .pagination__btn--next {
   float: right;
