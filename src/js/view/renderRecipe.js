@@ -90,9 +90,9 @@ export const renderRecipe = (recipe, isLiked) => {
 
         </ul>
 
-        <button class="btn-small recipe__btn hidden">
+        <button class="btn--small recipe__btn">
             <svg class="search__icon">
-                <use href="image/icons.svg#icon-shopping-cart"></use>
+                <use href="image/icons.svg#icon-send"></use>
             </svg>
             <span>САГСАНД ХИЙХ</span>
         </button>
